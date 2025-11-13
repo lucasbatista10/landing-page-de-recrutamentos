@@ -1,0 +1,21 @@
+.about__textos{
+    text-align: center;
+}
+.about__texto{
+    font-weight: 600;
+    color: var(--vermelho-vinho);
+    padding: 2em;
+}
+.about__titulo{
+    font-weight: 600;
+    font-size: 48px;
+    padding-bottom: 1.5em;
+}
+.about__paragrafo {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza-claro);
+    max-width: 791px; 
+    margin: 0 auto;   
+    line-height: 30px; 
+}
