@@ -9,7 +9,7 @@
 .about__titulo{
     font-weight: 600;
     font-size: 48px;
-    padding-bottom: 1.5em;
+    padding-bottom: 1em;
 }
 .about__paragrafo {
     font-weight: 400;
@@ -19,3 +19,31 @@
     margin: 0 auto;   
     line-height: 30px; 
 }
+.metricas{
+    display: flex;
+    padding: 7em 9em;
+    margin: 0 auto;
+    gap: 8em;
+}
+.metricas__container--numero{
+    font-weight: 600;
+    color: var(--vermelho-vinho);
+    font-size: 60px;
+    padding-bottom: 0.4em;
+    max-width: 280px;
+}
+.metricas__container--titulo{
+    font-weight: 500;
+    font-size: 18px;
+    padding-bottom: 1em;
+    max-width: 280px;
+}
+.metricas__container--texto{
+    font-weight: 400;
+    font-size: 16px;
+    color: var(--cinza-claro);
+    line-height: 24px;
+    max-width: 280px;
+
+}
+
