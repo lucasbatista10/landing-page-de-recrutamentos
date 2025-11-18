@@ -19,8 +19,8 @@
     margin: 0 auto;   
     line-height: 30px; 
 }
-.container__imagem{
-    padding-top: 3em;
+.about__imagem{
+    padding: 4em 7em 0 7em;
 }
 .metricas{
     display: flex;

@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
 @import url("styles/cabecalho.css");
 @import url("styles/about.css");
+@import url("styles/vagas.css");
 
 :root {
     --fonte-principal: "Inter";
@@ -8,6 +9,7 @@
     --cinza-claro: #667085;
     --vermelho-vinho: #8E2424;
     --branco: #FFFFFF;
+    --cinza-borda: #EAECF0;
 }
 
 body {
