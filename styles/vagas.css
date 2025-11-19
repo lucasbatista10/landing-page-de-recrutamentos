@@ -5,9 +5,15 @@
     font-weight: 500;
     font-size: 14px;
     color: var(--vermelho-vinho);
-    padding-bottom: 1em;
+    padding: .5em;
+    background-color: var(--rosa-de-fundo);
+    width: 125px;
+    margin: 0 auto;
+    border-radius: 16px;
+
 }
 .vagas__container--titulo{
+    padding-top: .5em;
     font-weight: 600;
     font-size: 36px;
     padding-bottom: 1em;

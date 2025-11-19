@@ -3,18 +3,21 @@
 @import url("styles/about.css");
 @import url("styles/vagas.css");
 @import url("styles/depoimentos.css");
-
+@import url("styles/rodape.css");
 :root {
     --fonte-principal: "Inter";
-    --cinza: #3A404E;
+    --cinza-escuro: #3A404E;
+    --preto: #101828;
     --cinza-claro: #667085;
     --vermelho-vinho: #8E2424;
     --branco: #FFFFFF;
     --cinza-borda: #EAECF0; 
-    --cor-de-fundo: #C3191908;
+    --rosa-de-fundo: #C3191908;
+    --cinza: #98A2B3;
+    --cinza-de-fundo: #F9FAFB;
 }
 
 body {
     font-family: var(--fonte-principal);
-    color: var(--cinza);
+    color: var(--preto);
 }

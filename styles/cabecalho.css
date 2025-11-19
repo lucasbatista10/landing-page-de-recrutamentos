@@ -13,7 +13,7 @@
     font-family: var(--fonte-principal);
     font-weight: 500;
     font-size: 18px;
-    color: var(--cinza);
+    color: var(--cinza-escuro);
 }
 .cabecalho__lista{
     display: flex;
