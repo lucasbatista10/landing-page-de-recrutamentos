@@ -1,0 +1,31 @@
+.depoimentos{
+    margin-top: 6em;
+}
+.depoimentos__container{
+    text-align: center;
+    background: var(--cor-de-fundo);
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.depoimentos__topico{
+    padding: 10em 0 1em 0;
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--vermelho-vinho);
+}
+.depoimentos__feedback{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    padding: 0 4em 1em 4em;
+}
+.depoimentos__nome{
+    padding: 1em 0 .5em 0;
+    font-weight: 500;
+    font-size: 16px;
+}
+.depoimentos__cargo{
+    font-weight: 400;
+    font-size: 14px;
+    color: var(--cinza-claro);
+}

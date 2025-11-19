@@ -1,14 +1,36 @@
-.vagas{
+.vagas__container{
+    text-align: center;
+}
+.vagas__container--topico{
+    font-weight: 500;
+    font-size: 14px;
+    color: var(--vermelho-vinho);
+    padding-bottom: 1em;
+}
+.vagas__container--titulo{
+    font-weight: 600;
+    font-size: 36px;
+    padding-bottom: 1em;
+}
+.vagas__container--paragrafo{
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza-claro);
+}
+.vagas__imagem{
+    padding: 4em 7em 0 7em;
+}
+.vagas__coluna{
     margin: 0 auto;
     max-width: 1280px;
 }
-.vagas__container{
+.vagas__lista{
     display: grid;
     gap: 24px;
     max-width: 768px;
     margin: 0 auto;
 }
-.vagas__container--area{
+.vagas__lista--area{
     font-weight: 500;
     font-size: 20px;
     padding: 4em 0 1em 0;

@@ -2,6 +2,7 @@
 @import url("styles/cabecalho.css");
 @import url("styles/about.css");
 @import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
 
 :root {
     --fonte-principal: "Inter";
@@ -9,9 +10,11 @@
     --cinza-claro: #667085;
     --vermelho-vinho: #8E2424;
     --branco: #FFFFFF;
-    --cinza-borda: #EAECF0;
+    --cinza-borda: #EAECF0; 
+    --cor-de-fundo: #C3191908;
 }
 
 body {
     font-family: var(--fonte-principal);
+    color: var(--cinza);
 }
